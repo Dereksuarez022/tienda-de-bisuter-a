@@ -8,5 +8,5 @@ dabh
 
 segunda clase presencial, se practico el uso de git hub y no entendí nada
 
-y susana uso ilustrator 
+
 
